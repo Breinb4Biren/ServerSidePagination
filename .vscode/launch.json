@@ -1,0 +1,24 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/praja/AppData/Local/Temp/f8b30477-d688-4eec-adb6-2359a2279dda_node-v20.14.0.tar.gz.dda/node-v20.14.0/src/crypto",
+      "program": "c:/Users/praja/AppData/Local/Temp/f8b30477-d688-4eec-adb6-2359a2279dda_node-v20.14.0.tar.gz.dda/node-v20.14.0/src/crypto/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
